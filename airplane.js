@@ -1,4 +1,4 @@
-// Airplane.js
+// Airplane.js make it so
 let Airplane = {};
 
 Airplane.availableAirplanes = [
